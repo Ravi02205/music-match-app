@@ -1,5 +1,5 @@
 import axios from 'axios';
-import React, { Component, useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom';
 import Spinner from '../layout/Spinner';
 import { Link } from 'react-router-dom';
